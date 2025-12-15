@@ -1,0 +1,3 @@
+ts,sku,location_id,on_hand,on_order,backorder
+2025-10-01T09:00:00,SKU-001,1,40,10,0
+2025-10-02T09:00:00,SKU-001,1,35,8,2
