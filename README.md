@@ -1,1 +1,1 @@
-Supply Chain Optimizer by training predition model
+Supply Chain Optimizer by training prediction model
